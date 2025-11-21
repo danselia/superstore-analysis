@@ -34,8 +34,7 @@
 - Git + GitHub
 
 ## 📁 Структура проекта
-superstore-analysis/
-
+superstore-analysis
 -data/                    # Датасет
 -images/                  # Графики
 -analysis.ipynb           # Основной анализ
